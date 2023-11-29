@@ -7,3 +7,5 @@ creo que es interestante debido a que en ocasiones, las cantidades tan grandes d
 estudiantes, o incluso puede hacer que estos pierdan las fechas en las que estas se entregan, es por esto que creo que
 mi proyecto es muy relevante para los estudiantes.
 
+
+![DiagramaUML](https://github.com/A01769552/agenda/assets/124001135/4d3bb895-badc-457a-afe1-cae349c14563)
