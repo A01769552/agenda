@@ -8,4 +8,5 @@ estudiantes, o incluso puede hacer que estos pierdan las fechas en las que estas
 mi proyecto es muy relevante para los estudiantes.
 
 # Diagrama UML
-![DiagramaUML](https://github.com/A01769552/agenda/assets/124001135/4d3bb895-badc-457a-afe1-cae349c14563)
+![Diagrama sin título](https://github.com/A01769552/agenda/assets/124001135/1953315b-2ae8-40d3-87d0-f2d8b599139b)
+
